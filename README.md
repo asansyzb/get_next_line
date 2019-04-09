@@ -1,4 +1,5 @@
 # get_next_line
+<<<<<<< HEAD
 
 A C function that reads any valid file line by line until the end from a file descriptor.
 
@@ -88,3 +89,6 @@ Have fun :)
 [16]: https://www.poemhunter.com/poem/black-of-my-eye/
 [17]: https://github.com/jgigault/42FileChecker
 [19]: https://github.com/R4meau/
+=======
+A C function that reads any valid file line by line until the end from a file descriptor.
+>>>>>>> a93c2eb5eaf15e18a955eabb1789fd6be6c9cfa8
